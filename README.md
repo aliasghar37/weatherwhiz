@@ -1,5 +1,5 @@
 # WeatherWhiz 🌦️
-[Live Demo](https://aliasghar37.github.io/weatherwhiz/)
+[Live Demo](https://aliasghar37.github.io/weatherwhiz)
 
 ## About
 WeatherWhiz is a straightforward single-page application that allows users to view the current weather and upcoming forecasts for a given location. Designed for simplicity and usability, it uses modern JavaScript for fetching and displaying data, with a responsive layout that works across devices.
@@ -7,7 +7,7 @@ WeatherWhiz is a straightforward single-page application that allows users to vi
 ## Features
 - Search for weather information by city or location name  
 - View current temperature, humidity, wind speed and more  
-- View forecast for coming hours/days (if implemented)  
+- View forecast for coming hours/days
 - Clean, minimal UI with responsive design  
 - Built with vanilla JavaScript — no heavy frameworks  
 - Easy to deploy: just HTML, CSS and JS  
